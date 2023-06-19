@@ -36,7 +36,7 @@
     <string name="touchscreen_gesture_action_browser">Otevřít prohlížeč</string>
     <string name="touchscreen_gesture_action_dialer">Spustit aplikaci Telefon</string>
     <string name="touchscreen_gesture_action_email">Zobrazit e-maily</string>
-    <string name="touchscreen_gesture_action_messages">Zobrazit vaše zprávy</string>
+    <string name="touchscreen_gesture_action_messages">Zobrazit zprávy</string>
     <string name="touchscreen_gesture_action_play_pause_music">Přehrát/pozastavit hudbu</string>
     <string name="touchscreen_gesture_action_previous_track">Přehrát předchozí skladbu</string>
     <string name="touchscreen_gesture_action_next_track">Přehrát další skladbu</string>
